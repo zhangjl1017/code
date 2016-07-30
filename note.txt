@@ -1,0 +1,4 @@
+􀁫只需要三步就可以将项目转为 Web?项目： ?􀂯􀃻􀃿􀃍􀂺􀁋􀂞
+􀁞1􀁠􀁌 main 􀁶􀃥􀂜􀀝􀄾􀂂 webapp 􀁶􀃥􀁊
+􀁞2􀁠􀁌 webapp 􀁶􀃥􀂜􀀝􀄾􀂂 WEB-INF 􀁶􀃥􀁊
+􀁞3􀁠􀁌 WEB-INF 􀁶􀃥􀂜􀀝􀄾􀂂 web.xml 􀄦􀄧􀁊
